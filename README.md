@@ -1,89 +1,85 @@
-Hi there, I'm Atharva Bhuwad! 👋
+# Hi there, I'm **Atharva Bhuwad!** 👋  
 
-I'm a Software Developer, Blockchain Enthusiast, and MERN Stack Web Developer from India. Passionate about technology and innovation, I enjoy building web and mobile applications, solving problems, and learning new technologies.
+I'm a **Software Developer**, **Blockchain Enthusiast**, and **MERN Stack Web Developer** from India. Passionate about technology and innovation, I enjoy building **web and mobile applications**, solving problems, and learning new technologies.  
 
-🚀 About Me
+---
 
-🎓 Pre-final-year Computer Science & Engineering student
+## 🚀 About Me  
 
-💻 Full Stack Developer (MERN, React Native, Node.js)
+- 🎓 **Pre-final-year Computer Science & Engineering student**  
+- 💻 **Full Stack Developer** (MERN, React Native, Node.js)  
+- 🔗 **Blockchain Enthusiast** exploring decentralized applications  
+- 🎨 **UI/UX Designer** with a keen eye for aesthetics  
+- 🔥 **Always learning and improving**  
 
-🔗 Blockchain enthusiast exploring decentralized applications
+---
 
-🎨 UI/UX Designer with a keen eye for aesthetics
+## 🛠️ Tech Stack  
 
-🔥 Always learning and improving
+### ✨ **Languages**  
+- **JavaScript**, **TypeScript**, **Dart**  
 
-🛠️ Tech Stack
+### 🌐 **Frontend**  
+- **React.js**, **Next.js**, **React Native**, **Tailwind CSS**  
 
-Languages: JavaScript, TypeScript, Dart
+### 🔥 **Backend**  
+- **Node.js**, **Express.js**, **FastAPI**  
 
-Frontend: React.js, Next.js, React Native, Tailwind CSS
+### 🗄️ **Databases**  
+- **MongoDB**, **Supabase**, **PostgreSQL**  
 
-Backend: Node.js, Express.js, FastAPI
+### 🔧 **Dev Tools**  
+- **Git**, **Docker**, **Postman**, **VS Code**, **Supabase**, **Firebase**  
 
-Databases: MongoDB, Supabase, PostgreSQL
+---
 
-Dev Tools: Git, Docker, Postman, VS Code, Supabase, Firebase
+## 🔥 Projects  
 
+### 🛠 **Customized T-shirt Design**  
+🔗 **[Live Demo](https://customized-tshirt-orza.vercel.app/)**  
+A 3D-based T-shirt customization tool that allows users to design and preview their T-shirt in real-time.  
+**Tech Stack:** React, Three.js, Tailwind CSS  
 
-🔥 Projects
+### 🏥 **Hospital Management System**  
+🔗 **[Live Demo](https://hospital-management-service-tna8-7v9c4tqtw.vercel.app/)**  
+A paperless hospital management solution for booking appointments, viewing doctor lists, and managing patient records.  
+**Tech Stack:** Express.js, React, Tailwind CSS, MongoDB, Node.js, Twilio, Cloudinary  
 
-🛠 Customized T-shirt Design
+### 🎨 **CreatorCam - Photo Editor**  
+🔗 **[GitHub](https://github.com/bhuwadatharva/creator)**  
+A powerful photo editing tool that allows users to recolor, blur, and remove objects from images with ease.  
+**Tech Stack:** Next.js, MongoDB, ShadCN/UI  
 
-🔗 Live DemoA 3D-based T-shirt customization tool that allows users to design and preview their T-shirt in real-time.
+### 🏋️ **75 Days Fitness Challenge**  
+🔗 **[GitHub](https://github.com/bhuwadatharva/Fitness)**  
+A fitness challenge app designed to improve both physical and mental health by tracking daily progress over 75 days.  
+**Tech Stack:** React Native, Expo, MongoDB, Node.js, Express.js  
 
-Tech Stack: React, Three.js, Tailwind CSS
+### 🍽 **Food Waste Management**  
+🔗 **[Live Demo](https://food-waste-3kix-irarfpkfg-bhuwadatharvas-projects.vercel.app/)**  
+A system that prevents food waste by allowing individuals and businesses to donate excess food to NGOs in need.  
+**Tech Stack:** React, Node.js, Express.js, CSS, JavaScript  
 
-🏥 Hospital Management System
+### 📄 **DocShift - Document Converter**  
+🔗 **[Live Demo](https://image-converter-tool.vercel.app/)**  
+A web app for converting documents between different formats.  
+**Tech Stack:** Next.js, React, Tailwind CSS, ShadCN/UI, MongoDB  
 
-🔗 Live DemoA paperless hospital management solution for booking appointments, viewing doctor lists, and managing patient records.
+### 🏥 **Swastha-Path (Selected for SIH 2024)**  
+🔗 **[GitHub](https://github.com/bhuwadatharva/swastha-path)**  
+A health data management system that enables authorities to track and respond to disease outbreaks efficiently.  
+**Tech Stack:** Flutter, Supabase, Twilio, Chart.js  
 
-Tech Stack: Express.js, React, Tailwind CSS, MongoDB, Node.js, Twilio, Cloudinary
+### 📝 **Automated Minutes Of Meeting Software**  
+🔗 **[GitHub](https://github.com/bhuwadatharva/automated-mom)**  
+This software creates minutes of meetings with the help of AI tools and sends them to the users who were present.  
+**Tech Stack:** React, MongoDB, SendGrid Email, Gemini AI  
 
-🎨 CreatorCam - Photo Editor
+---
 
-🔗 GitHubA powerful photo editing tool that allows users to recolor, blur, and remove objects from images with ease.
+## 📫 Connect with Me  
 
-Tech Stack: Next.js, MongoDB, ShadCN/UI
+🔹 **Portfolio:** [atharvabhuwad.dev](https://portfolio-rho-green-69.vercel.app/)  
+🔹 **Email:** [bhuwadatharva@gmail.com](mailto:bhuwadatharva@gmail.com)  
 
-🏋️ 75 Days Fitness Challenge
-
-🔗 GitHubA fitness challenge app designed to improve both physical and mental health by tracking daily progress over 75 days.
-
-Tech Stack: React Native, Expo, MongoDB, Node.js, Express.js
-
-🍽 Food Waste Management
-
-🔗 Live DemoA system that prevents food waste by allowing individuals and businesses to donate excess food to NGOs in need.
-
-Tech Stack: React, Node.js, Express.js, CSS, JavaScript
-
-📄 DocShift - Document Converter
-
-A web app for converting documents between different formats, built with Next.js, Cloudinary, and MongoDB.
-
-Tech Stack: Next.js, React, Tailwind CSS, ShadCN/UI, MongoDB
-
-🏥 Swastha-Path (Selected for SIH 2024)
-
-A health data management system that enables authorities to track and respond to disease outbreaks efficiently.
-
-Tech Stack: Flutter, Supabase, Twilio, Chart.js
-
-📝 Automated Minutes Of Meeting Software
-
-This software creates minutes of meetings with the help of AI tools and sends them to the users who were present.
-
-Tech Stack: React, MongoDB, SendGrid Email, Gemini AI
-
-📫 Connect with Me
-
-
-
-🔹 Portfolio: https://portfolio-rho-green-69.vercel.app/ 🔹 Email: bhuwadatharva@gmail.com
-
-💡 Always open to exciting projects and collaborations! 🚀
-
-
-
+💡 **Always open to exciting projects and collaborations!** 🚀
