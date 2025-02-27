@@ -79,7 +79,7 @@ This software creates minutes of meetings with the help of AI tools and sends th
 
 ## 📫 Connect with Me  
 
-🔹 **Portfolio:** [atharvabhuwad.dev](https://portfolio-rho-green-69.vercel.app/)  
+🔹 **Portfolio:** [atharvabhuwad.dev] 
 🔹 **Email:** [bhuwadatharva@gmail.com](mailto:bhuwadatharva@gmail.com)  
 
 💡 **Always open to exciting projects and collaborations!** 🚀
