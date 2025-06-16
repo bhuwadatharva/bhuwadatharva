@@ -61,17 +61,17 @@ A system that prevents food waste by allowing individuals and businesses to dona
 **Tech Stack:** React, Node.js, Express.js, CSS, JavaScript  
 
 ### 📄 **DocShift - Document Converter**  
-🔗 **[Live Demo]()**  
+🔗 **[Github](https://github.com/bhuwadatharva/Convert)**  
 A web app for converting documents between different formats.  
 **Tech Stack:** Next.js, React, Tailwind CSS, ShadCN/UI, MongoDB  
 
 ### 🏥 **Swastha-Path (Selected for SIH 2024)**  
-🔗 **[GitHub](https://github.com/bhuwadatharva/swastha-path)**  
+🔗 **[GitHub](https://github.com/bhuwadatharva/)**  
 A health data management system that enables authorities to track and respond to disease outbreaks efficiently.  
 **Tech Stack:** Flutter, Supabase, Twilio, Chart.js  
 
 ### 📝 **Automated Minutes Of Meeting Software**  
-🔗 **[GitHub](https://github.com/bhuwadatharva/automated-mom)**  
+🔗 **[GitHub](https://github.com/bhuwadatharva/MOM)**  
 This software creates minutes of meetings with the help of AI tools and sends them to the users who were present.  
 **Tech Stack:** React, MongoDB, SendGrid Email, Gemini AI  
 
