@@ -6,7 +6,7 @@ I'm a **Software Developer**, **Blockchain Enthusiast**, and **MERN Stack Web De
 
 ## 🚀 About Me  
 
-- 🎓 **Pre-final-year Computer Science & Engineering student**  
+- 🎓 **Final-year Computer Science & Engineering student**  
 - 💻 **Full Stack Developer** (MERN, React Native, Node.js)  
 - 🔗 **Blockchain Enthusiast** exploring decentralized applications  
 - 🎨 **UI/UX Designer** with a keen eye for aesthetics  
