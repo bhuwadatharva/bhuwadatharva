@@ -1,85 +1,179 @@
-# Hi there, I'm **Atharva Bhuwad!** 👋  
+# Hi, I'm Atharva Bhuwad 👋
 
-I'm a **Software Developer**, **Blockchain Enthusiast**, and **MERN Stack Web Developer** from India. Passionate about technology and innovation, I enjoy building **web and mobile applications**, solving problems, and learning new technologies.  
+### AI Software Engineer | Full-Stack Developer | Problem Solver
 
----
-
-## 🚀 About Me  
-
-- 🎓 **Final-year Computer Science & Engineering student**  
-- 💻 **Full Stack Developer** (MERN, React Native, Node.js)  
-- 🔗 **Blockchain Enthusiast** exploring decentralized applications  
-- 🎨 **UI/UX Designer** with a keen eye for aesthetics  
-- 🔥 **Always learning and improving**  
+Passionate about building intelligent software systems, scalable web applications, and AI-powered products that solve real-world problems. I specialize in designing full-stack applications, backend architectures, and agentic AI solutions while maintaining a strong foundation in Data Structures, Algorithms, and Software Engineering principles.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 About Me
 
-### ✨ **Languages**  
-- **JavaScript**, **TypeScript**, **Dart**  
-
-### 🌐 **Frontend**  
-- **React.js**, **Next.js**, **React Native**, **Tailwind CSS**  
-
-### 🔥 **Backend**  
-- **Node.js**, **Express.js**, **FastAPI**  
-
-### 🗄️ **Databases**  
-- **MongoDB**, **Supabase**, **PostgreSQL**  
-
-### 🔧 **Dev Tools**  
-- **Git**, **Docker**, **Postman**, **VS Code**, **Supabase**, **Firebase**  
+* 🎓 Computer Science Engineer (2026 Graduate)
+* 🤖 AI & Agentic Systems Developer
+* 💻 Full-Stack Developer (React, Node.js, FastAPI)
+* ☁️ Cloud & Backend Engineering Enthusiast
+* 🔍 Strong focus on System Design, Scalability, and Performance
+* 🧩 Solved 300+ LeetCode problems (Rating 1490+)
+* 🏆 Grand Finalist – Smart India Hackathon 2024
+* 🌟 Former Lead, Google Developer Group (GDG)
 
 ---
 
-## 🔥 Projects  
+## 💡 What I Build
 
-### 🛠 **Customized T-shirt Design**  
-🔗 **[Live Demo](https://customized-tshirt-orza.vercel.app/)**  
-A 3D-based T-shirt customization tool that allows users to design and preview their T-shirt in real-time.  
-**Tech Stack:** React, Three.js, Tailwind CSS  
-
-### 🏥 **Hospital Management System**  
-🔗 **[Live Demo](https://hospital-management-service-tna8-7v9c4tqtw.vercel.app/)**  
-A paperless hospital management solution for booking appointments, viewing doctor lists, and managing patient records.  
-**Tech Stack:** Express.js, React, Tailwind CSS, MongoDB, Node.js, Twilio, Cloudinary  
-
-### 🎨 **CreatorCam - Photo Editor**  
-🔗 **[GitHub](https://github.com/bhuwadatharva/creator)**  
-A powerful photo editing tool that allows users to recolor, blur, and remove objects from images with ease.  
-**Tech Stack:** Next.js, MongoDB, ShadCN/UI  
-
-### 🏋️ **75 Days Fitness Challenge**  
-🔗 **[GitHub](https://github.com/bhuwadatharva/Fitness)**  
-A fitness challenge app designed to improve both physical and mental health by tracking daily progress over 75 days.  
-**Tech Stack:** React Native, Expo, MongoDB, Node.js, Express.js  
-
-### 🍽 **Food Waste Management**  
-🔗 **[Live Demo](https://food-waste-3kix-irarfpkfg-bhuwadatharvas-projects.vercel.app/)**  
-A system that prevents food waste by allowing individuals and businesses to donate excess food to NGOs in need.  
-**Tech Stack:** React, Node.js, Express.js, CSS, JavaScript  
-
-### 📄 **DocShift - Document Converter**  
-🔗 **[Github](https://github.com/bhuwadatharva/Convert)**  
-A web app for converting documents between different formats.  
-**Tech Stack:** Next.js, React, Tailwind CSS, ShadCN/UI, MongoDB  
-
-### 🏥 **Swastha-Path (Selected for SIH 2024)**  
-🔗 **[GitHub](https://github.com/bhuwadatharva/)**  
-A health data management system that enables authorities to track and respond to disease outbreaks efficiently.  
-**Tech Stack:** Flutter, Supabase, Twilio, Chart.js  
-
-### 📝 **Automated Minutes Of Meeting Software**  
-🔗 **[GitHub](https://github.com/bhuwadatharva/MOM)**  
-This software creates minutes of meetings with the help of AI tools and sends them to the users who were present.  
-**Tech Stack:** React, MongoDB, SendGrid Email, Gemini AI  
+* AI Agents & RAG Applications
+* Scalable Backend Systems & APIs
+* Full-Stack Web Applications
+* Mobile Applications
+* Microservices Architectures
+* Cloud-Native Solutions
 
 ---
 
-## 📫 Connect with Me  
+## 🛠 Tech Stack
 
-🔹 **Email:** [bhuwadatharva@gmail.com](mailto:bhuwadatharva@gmail.com)  
+### Languages
 
-💡 **Always open to exciting projects and collaborations!** 🚀
+* Java
+* Python
+* JavaScript
+* TypeScript
+* C++
 
+### AI & Machine Learning
+
+* OpenAI API
+* Gemini AI
+* RAG (Retrieval-Augmented Generation)
+* AI Agents
+* Prompt Engineering
+* Vector Databases
+
+### Frontend
+
+* React.js
+* Next.js
+* React Native
+* Tailwind CSS
+* Three.js
+
+### Backend
+
+* Node.js
+* Express.js
+* FastAPI
+* REST APIs
+* Microservices
+
+### Databases
+
+* MongoDB
+* PostgreSQL
+* MySQL
+* Supabase
+
+### Cloud & DevOps
+
+* Docker
+* Kubernetes (Basic)
+* AWS
+* Git & GitHub
+* CI/CD
+* Linux
+* Postman
+
+---
+
+# Featured Projects
+
+## 🤖 AI Career Counsellor (Agentic AI System)
+
+An intelligent AI-powered career guidance platform that analyzes user profiles, skills, interests, and goals to generate personalized career roadmaps and learning recommendations.
+
+### Key Features
+
+* Autonomous AI Career Advisor
+* Personalized Learning Paths
+* Skill Gap Analysis
+* Career Recommendation Engine
+* RAG-Based Knowledge Retrieval
+* Multi-Step Reasoning Workflows
+
+**Tech Stack:** Python, OpenAI API, RAG, React.js, FastAPI
+
+---
+
+## 🧠 MOM Automate System
+
+AI-powered meeting assistant that automatically generates professional Minutes of Meeting (MoM), extracts action items, summarizes discussions, and shares reports with participants.
+
+**Tech Stack:** React, MongoDB, Gemini AI, SendGrid
+
+---
+
+## 🏥 SwasthaPath (SIH 2024 Grand Finalist)
+
+Health Data Management System designed to help authorities track disease outbreaks, monitor healthcare trends, and improve public health response mechanisms.
+
+**Tech Stack:** Flutter, Supabase, Twilio, Analytics Dashboard
+
+---
+
+## ⚙️ Online Reservation System
+
+Scalable microservices-based reservation platform capable of handling concurrent bookings efficiently.
+
+### Highlights
+
+* Redis Caching
+* Concurrent Request Handling
+* Optimized API Performance
+* Microservices Architecture
+
+**Tech Stack:** Node.js, Redis, Microservices, REST APIs
+
+---
+
+## 🎨 Customized T-Shirt Designer
+
+Interactive 3D customization platform allowing users to design and visualize products in real time.
+
+**Tech Stack:** React, Three.js, Tailwind CSS
+
+---
+
+## 🏥 Hospital Management System
+
+Comprehensive digital healthcare platform for appointment scheduling, doctor management, patient records, and communication workflows.
+
+**Tech Stack:** React, Node.js, MongoDB, Twilio, Cloudinary
+
+---
+
+## 🍽 Food Waste Management System
+
+A social-impact platform connecting food donors with NGOs to reduce food wastage and improve food distribution.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB
+
+---
+
+## 📊 GitHub Stats
+
+* 🏆 Smart India Hackathon 2024 Grand Finalist
+* 🌟 GDG Lead
+* 🧠 300+ LeetCode Problems Solved
+* 🚀 Multiple Full-Stack & AI Projects Built
+* 📱 Published Mobile Applications
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **[bhuwad.atharva@gmail.com](mailto:bhuwad.atharva@gmail.com)**
+
+💼 LinkedIn: **linkedin.com/in/atharva-bhuwad**
+
+🐙 GitHub: **github.com/bhuwadatharva**
+
+⚡ "Building intelligent systems that create real-world impact."
